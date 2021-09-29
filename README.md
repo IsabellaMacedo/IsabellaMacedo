@@ -1,4 +1,5 @@
-### Oi! 👋
+### Oi! Sou desenvolvedora front-end jr. 👋
+From 🇧🇷
 <div>
   <a href="https://github.com/IsabellaMacedo">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IsabellaMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
