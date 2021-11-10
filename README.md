@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/IsabellaMacedo">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IsabellaMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMacedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IsabellaMacedo&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMacedo&layout=compact&langs_count=7"/>
 </div>
   
   ![Snake animation](https://github.com/IsabellaMacedo/IsabellaMacedo/blob/output/github-contribution-grid-snake.svg)
